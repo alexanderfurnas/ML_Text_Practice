@@ -1,0 +1,442 @@
+WEBVTT
+
+00:00.033 --> 00:02.066 align:left position:0%,start line:93.33% size:100%
+ON FRIDAY, HACKERS WERE ABLE TO
+
+00:02.066 --> 00:04.266 align:left position:0%,start line:93.33% size:100%
+PENETRATE A TOUCH SCREEN VOTING
+
+00:04.266 --> 00:06.933 align:left position:0%,start line:93.33% size:100%
+MACHINE IN LESS THAN TWO HOURS.
+
+00:06.933 --> 00:08.766 align:left position:0%,start line:93.33% size:100%
+THE MACHINE WAS USED IN A 2014
+
+00:08.766 --> 00:10.366 align:left position:0%,start line:93.33% size:100%
+VIRGINIA ELECTION, AND THE HACK
+
+00:10.366 --> 00:11.933 align:left position:0%,start line:93.33% size:100%
+WAS PART OF A DEMONSTRATION OF
+
+00:11.933 --> 00:13.433 align:left position:0%,start line:93.33% size:100%
+ELECTION SYSTEM SECURITY
+
+00:13.433 --> 00:14.666 align:left position:0%,start line:93.33% size:100%
+WEAKNESSES AT DEFCON IN LAS
+
+00:14.666 --> 00:15.933 align:left position:0%,start line:93.33% size:100%
+VEGAS.
+
+00:15.933 --> 00:17.400 align:left position:0%,start line:93.33% size:100%
+THE ANNUAL EVENT IS ATTENDED BY
+
+00:17.400 --> 00:19.100 align:left position:0%,start line:93.33% size:100%
+HACKERS, BUT ALSO BY SECURITY
+
+00:19.100 --> 00:20.866 align:left position:0%,start line:93.33% size:100%
+AND TECHNOLOGY FIRMS, GOVERNMENT
+
+00:20.866 --> 00:22.500 align:left position:0%,start line:93.33% size:100%
+EMPLOYEES-- SOME UNDERCOVER--
+
+00:22.500 --> 00:24.100 align:left position:0%,start line:93.33% size:100%
+AND OF COURSE REPORTERS.
+
+00:24.100 --> 00:25.233 align:left position:0%,start line:93.33% size:100%
+DEFCON WRAPS UP TODAY, AND
+
+00:25.233 --> 00:26.166 align:left position:0%,start line:93.33% size:100%
+JOINING ME NOW FROM SAN
+
+00:26.166 --> 00:27.100 align:left position:0%,start line:93.33% size:100%
+FRANCISCO IS ROBERT McMILLAN OF
+
+00:27.100 --> 00:28.200 align:left position:0%,start line:93.33% size:100%
+THE "WALL STREET JOURNAL" WHO
+
+00:28.200 --> 00:29.400 align:left position:0%,start line:93.33% size:100%
+HAS BEEN COVERING THE
+
+00:29.400 --> 00:30.800 align:left position:0%,start line:93.33% size:100%
+CONFERENCE.
+
+00:30.800 --> 00:32.166 align:left position:0%,start line:93.33% size:100%
+THAT HEADLINE, YOU KNOW,
+
+00:32.166 --> 00:33.500 align:left position:0%,start line:93.33% size:100%
+SOMEONE HACKING ELECTIONS
+
+00:33.500 --> 00:34.933 align:left position:0%,start line:93.33% size:100%
+MACHINE IN TWO HOURS, THAT HAS
+
+00:34.933 --> 00:36.633 align:left position:0%,start line:93.33% size:100%
+EVERYONE KIND OF INTERESTED.
+
+00:36.633 --> 00:38.033 align:left position:0%,start line:93.33% size:100%
+THIS IS NOT A MACHINE THAT IS IN
+
+00:38.033 --> 00:39.833 align:left position:0%,start line:93.33% size:100%
+USE TODAY BUT IT WAS JUST A FEW
+
+00:39.833 --> 00:41.466 align:left position:0%,start line:93.33% size:100%
+YEARS AGO.
+
+00:41.466 --> 00:42.633 align:left position:0%,start line:93.33% size:100%
+>> YEAH AND IT WAS IN USE FOR
+
+00:42.633 --> 00:44.033 align:left position:0%,start line:93.33% size:100%
+YEARS AND DEFINITELY HACKABLE
+
+00:44.033 --> 00:45.800 align:left position:0%,start line:93.33% size:100%
+FOR YEARS.
+
+00:45.800 --> 00:47.533 align:left position:0%,start line:93.33% size:100%
+THAT WAS THE THING THAT REALLY
+
+00:47.533 --> 00:49.100 align:left position:0%,start line:93.33% size:100%
+CAUGHT MY ATTENTION JUST SITTING
+
+00:49.100 --> 00:50.466 align:left position:0%,start line:93.33% size:100%
+THERE NEXT TO A GUY WITH A
+
+00:50.466 --> 00:52.433 align:left position:0%,start line:93.33% size:100%
+LAPTOP WHO'S CONNECTING TO A
+
+00:52.433 --> 00:54.666 align:left position:0%,start line:93.33% size:100%
+VOTING MACHINE THAT IS STATING
+
+00:54.666 --> 00:56.500 align:left position:0%,start line:93.33% size:100%
+THAT IT WAS USED IN FAIRFAX
+
+00:56.500 --> 00:58.833 align:left position:0%,start line:93.33% size:100%
+COUNTY IN 2014, CONNECTS TO IT
+
+00:58.833 --> 01:00.166 align:left position:0%,start line:93.33% size:100%
+WIRELESSLY AND TAKES COMPLETE
+
+01:00.166 --> 01:01.000 align:left position:0%,start line:93.33% size:100%
+CONTROL OF IT RIGHT IN FRONT OF
+
+01:01.000 --> 01:02.433 align:left position:0%,start line:93.33% size:100%
+ME.
+
+01:02.433 --> 01:03.733 align:left position:0%,start line:93.33% size:100%
+>> Sreenivasan: THERE'S BEEN SO
+
+01:03.733 --> 01:04.900 align:left position:0%,start line:93.33% size:100%
+MUCH TALK ABOUT THE RUSSIANS AND
+
+01:04.900 --> 01:05.966 align:left position:0%,start line:93.33% size:100%
+THEIR INVOLVEMENT IN THE
+
+01:05.966 --> 01:07.100 align:left position:0%,start line:93.33% size:100%
+ELECTIONS, AND REPEATEDLY THE
+
+01:07.100 --> 01:08.200 align:left position:0%,start line:93.33% size:100%
+DEPARTMENT OF HOMELAND SECURITY
+
+01:08.200 --> 01:09.433 align:left position:0%,start line:93.33% size:100%
+AND OTHER AGENCIES SAYS THERE
+
+01:09.433 --> 01:10.700 align:left position:0%,start line:93.33% size:100%
+WEREN'T ANY VOTES MANIPULATED
+
+01:10.700 --> 01:12.133 align:left position:0%,start line:93.33% size:100%
+FROM ONE SIDE TO ANOTHER.
+
+01:12.133 --> 01:13.700 align:left position:0%,start line:93.33% size:100%
+THE HACK THAT WAS JUST
+
+01:13.700 --> 01:14.866 align:left position:0%,start line:93.33% size:100%
+DEMONSTRATED HERE, WHAT IS THE
+
+01:14.866 --> 01:15.933 align:left position:0%,start line:93.33% size:100%
+EXTENT OF THE DAMAGE IT COULD
+
+01:15.933 --> 01:17.566 align:left position:0%,start line:93.33% size:100%
+DO?
+
+01:17.566 --> 01:18.833 align:left position:0%,start line:93.33% size:100%
+>> IT COULD HAVE ALTERED THE
+
+01:18.833 --> 01:20.100 align:left position:0%,start line:93.33% size:100%
+VOTES.
+
+01:20.100 --> 01:21.133 align:left position:0%,start line:93.33% size:100%
+IT COULD HAVE DONE ANYTHING TO
+
+01:21.133 --> 01:23.000 align:left position:0%,start line:93.33% size:100%
+THIS ONE VOTING MACHINE, YOU
+
+01:23.000 --> 01:25.733 align:left position:0%,start line:93.33% size:100%
+KNOW, AND IT WOULD HAVE BEEN
+
+01:25.733 --> 01:27.866 align:left position:0%,start line:93.33% size:100%
+UNDETECTABLE AFTER IT HAPPENED.
+
+01:27.866 --> 01:30.000 align:left position:0%,start line:93.33% size:100%
+SO THERE'S DEFINITELY CONCERNS
+
+01:30.000 --> 01:31.000 align:left position:0%,start line:93.33% size:100%
+ABOUT THIS ONE PARTICULAR
+
+01:31.000 --> 01:31.966 align:left position:0%,start line:93.33% size:100%
+MACHINE.
+
+01:31.966 --> 01:33.366 align:left position:0%,start line:93.33% size:100%
+I THINK THE BROADER PICTURE
+
+01:33.366 --> 01:36.000 align:left position:0%,start line:93.33% size:100%
+ABOUT WHAT WE NEED TO WORRY
+
+01:36.000 --> 01:37.900 align:left position:0%,start line:93.33% size:100%
+ABOUT WITH VOTING MACHINE
+
+01:37.900 --> 01:39.433 align:left position:0%,start line:93.33% size:100%
+SECURITY IS ONLY BECOMING CLEAR
+
+01:39.433 --> 01:41.233 align:left position:0%,start line:93.33% size:100%
+RIGHT NOW.
+
+01:41.233 --> 01:42.766 align:left position:0%,start line:93.33% size:100%
+YOU KNOW, I THINK FOR A WHILE
+
+01:42.766 --> 01:44.066 align:left position:0%,start line:93.33% size:100%
+PEOPLE REALLY FOCUSED ON THE
+
+01:44.066 --> 01:46.600 align:left position:0%,start line:93.33% size:100%
+INTEGRITY OF JUST THESE DEVICES.
+
+01:46.600 --> 01:47.966 align:left position:0%,start line:93.33% size:100%
+YOU KNOW, TEN YEARS AGO WE HAD
+
+01:47.966 --> 01:49.233 align:left position:0%,start line:93.33% size:100%
+AUDITS OF VOTING MACHINES AND
+
+01:49.233 --> 01:50.233 align:left position:0%,start line:93.33% size:100%
+THERE WAS A LOT OF DISCUSSION
+
+01:50.233 --> 01:51.333 align:left position:0%,start line:93.33% size:100%
+OF THIS.
+
+01:51.333 --> 01:52.533 align:left position:0%,start line:93.33% size:100%
+BUT WITH WHAT HAPPENED LAST
+
+01:52.533 --> 01:55.733 align:left position:0%,start line:93.33% size:100%
+YEAR, THE WHOLE SCENARIO OF WHAT
+
+01:55.733 --> 01:57.133 align:left position:0%,start line:93.33% size:100%
+COULD BE HACKED AND HOW IT COULD
+
+01:57.133 --> 01:59.266 align:left position:0%,start line:93.33% size:100%
+BE HACKED AND THE CONCEPT OF THE
+
+01:59.266 --> 02:02.100 align:left position:0%,start line:93.33% size:100%
+NETWORK BEING ATTACKED, PEOPLE
+
+02:02.100 --> 02:03.200 align:left position:0%,start line:93.33% size:100%
+ARE RETHINKING VOTING MACHINE
+
+02:03.200 --> 02:04.433 align:left position:0%,start line:93.33% size:100%
+SECURITY RIGHT NOW.
+
+02:04.433 --> 02:05.500 align:left position:0%,start line:93.33% size:100%
+>> Sreenivasan: WHAT WAS
+
+02:05.500 --> 02:07.766 align:left position:0%,start line:93.33% size:100%
+INTRIGUING IS THAT THIS VOTING
+
+02:07.766 --> 02:09.666 align:left position:0%,start line:93.33% size:100%
+MACHINE WAS USED IN 2014 BUT THE
+
+02:09.666 --> 02:11.433 align:left position:0%,start line:93.33% size:100%
+HACKER LOOKS LIKE THEY FOUND A
+
+02:11.433 --> 02:13.366 align:left position:0%,start line:93.33% size:100%
+HOLE THAT WAS... MICROSOFT
+
+02:13.366 --> 02:14.766 align:left position:0%,start line:93.33% size:100%
+ISSUED A PATCH FOR THAT YEARS
+
+02:14.766 --> 02:15.933 align:left position:0%,start line:93.33% size:100%
+AGO.
+
+02:15.933 --> 02:17.433 align:left position:0%,start line:93.33% size:100%
+>> YEAH, AND THIS... I MEAN,
+
+02:17.433 --> 02:19.033 align:left position:0%,start line:93.33% size:100%
+THIS MACHINE, IT'S CALLED A
+
+02:19.033 --> 02:20.733 align:left position:0%,start line:93.33% size:100%
+WINVOTE MACHINE, IT'S WIDELY
+
+02:20.733 --> 02:22.200 align:left position:0%,start line:93.33% size:100%
+CONSIDERED TO BE THE WORST
+
+02:22.200 --> 02:24.066 align:left position:0%,start line:93.33% size:100%
+VOTING MACHINE EVER.
+
+02:24.066 --> 02:26.833 align:left position:0%,start line:93.33% size:100%
+SO THE FACT THAT IT... THAT THIS
+
+02:26.833 --> 02:28.066 align:left position:0%,start line:93.33% size:100%
+HAPPENED, TO PEOPLE THAT
+
+02:28.066 --> 02:29.633 align:left position:0%,start line:93.33% size:100%
+FOLLOW THIS, IS NOT SURPRISING.
+
+02:29.633 --> 02:31.133 align:left position:0%,start line:93.33% size:100%
+WE'VE KNOWN FOR YEARS THAT THESE
+
+02:31.133 --> 02:32.066 align:left position:0%,start line:93.33% size:100%
+VOTING MACHINES WERE
+
+02:32.066 --> 02:33.400 align:left position:0%,start line:93.33% size:100%
+VULNERABLE, BUT IT'S HARD TO
+
+02:33.400 --> 02:34.766 align:left position:0%,start line:93.33% size:100%
+GET ACCESS TO THEM.
+
+02:34.766 --> 02:36.133 align:left position:0%,start line:93.33% size:100%
+AND SO THE ACT OF ACTUALLY
+
+02:36.133 --> 02:37.566 align:left position:0%,start line:93.33% size:100%
+SEEING SOMEBODY DO IT IS PRETTY
+
+02:37.566 --> 02:39.333 align:left position:0%,start line:93.33% size:100%
+RARE.
+
+02:39.333 --> 02:40.766 align:left position:0%,start line:93.33% size:100%
+>> Sreenivasan: THE STRENGTH
+
+02:40.766 --> 02:42.166 align:left position:0%,start line:93.33% size:100%
+AND THE WEAKNESS OF OUR ENTIRE
+
+02:42.166 --> 02:43.800 align:left position:0%,start line:93.33% size:100%
+SYSTEM IS THE FACT THAT THERE
+
+02:43.800 --> 02:45.366 align:left position:0%,start line:93.33% size:100%
+ISN'T ANY UNIFORMITY IN THE
+
+02:45.366 --> 02:46.833 align:left position:0%,start line:93.33% size:100%
+KIND OF MACHINES THAT EXIST IN
+
+02:46.833 --> 02:48.266 align:left position:0%,start line:93.33% size:100%
+EVERY JURISDICTION ALL OVER THE
+
+02:48.266 --> 02:50.433 align:left position:0%,start line:93.33% size:100%
+COUNTRY AND THERE'S ALSO NO
+
+02:50.433 --> 02:51.933 align:left position:0%,start line:93.33% size:100%
+CENTRAL I.T. STAFF THAT SAYS,
+
+02:51.933 --> 02:53.600 align:left position:0%,start line:93.33% size:100%
+"OKAY, HERE'S THE UPDATE, A
+
+02:53.600 --> 02:55.166 align:left position:0%,start line:93.33% size:100%
+SOFTWARE PATCH THAT'S GOING TO
+
+02:55.166 --> 02:56.466 align:left position:0%,start line:93.33% size:100%
+GO OUT TO EVERYTHING AT THE
+
+02:56.466 --> 02:58.100 align:left position:0%,start line:93.33% size:100%
+SAME TIME, OR THAT A HACKER
+
+02:58.100 --> 02:59.466 align:left position:0%,start line:93.33% size:100%
+COULD GET INTO THAT ONE CENTRAL
+
+02:59.466 --> 03:00.600 align:left position:0%,start line:93.33% size:100%
+SYSTEM AND HACK EVERYTHING AT
+
+03:00.600 --> 03:01.766 align:left position:0%,start line:93.33% size:100%
+THE SAME TIME.
+
+03:01.766 --> 03:03.733 align:left position:0%,start line:93.33% size:100%
+>> YEAH, I MEAN, THE
+
+03:03.733 --> 03:05.133 align:left position:0%,start line:93.33% size:100%
+CONVENTIONAL WISDOM WAS THAT
+
+03:05.133 --> 03:06.300 align:left position:0%,start line:93.33% size:100%
+OUR SYSTEMS WERE SO DIVERSE
+
+03:06.300 --> 03:07.566 align:left position:0%,start line:93.33% size:100%
+THAT IT WOULD BE DIFFICULT TO
+
+03:07.566 --> 03:08.633 align:left position:0%,start line:93.33% size:100%
+COMPROMISE THEM IN A WIDESPREAD
+
+03:08.633 --> 03:09.800 align:left position:0%,start line:93.33% size:100%
+WAY.
+
+03:09.800 --> 03:10.966 align:left position:0%,start line:93.33% size:100%
+BUT I THINK WHAT WE'RE LEARNING
+
+03:10.966 --> 03:13.433 align:left position:0%,start line:93.33% size:100%
+ABOUT THE 2016 EFFORT, THE FACT
+
+03:13.433 --> 03:14.766 align:left position:0%,start line:93.33% size:100%
+THAT THERE WERE SO MANY STATES
+
+03:14.766 --> 03:16.400 align:left position:0%,start line:93.33% size:100%
+AFFECTED, THESE WEREN'T VOTING
+
+03:16.400 --> 03:18.733 align:left position:0%,start line:93.33% size:100%
+MACHINES, THESE WERE THE
+
+03:18.733 --> 03:21.100 align:left position:0%,start line:93.33% size:100%
+MACHINES THAT KEEP TRACK OF THE
+
+03:21.100 --> 03:24.233 align:left position:0%,start line:93.33% size:100%
+REGISTERED VOTERS, BUT THE FACT
+
+03:24.233 --> 03:25.766 align:left position:0%,start line:93.33% size:100%
+THAT REMOTELY, PEOPLE WERE ABLE
+
+03:25.766 --> 03:27.500 align:left position:0%,start line:93.33% size:100%
+TO ACCESS COUNTY SYSTEMS LIKE
+
+03:27.500 --> 03:29.966 align:left position:0%,start line:93.33% size:100%
+THIS, AND, YOU KNOW, WHAT MIGHT
+
+03:29.966 --> 03:31.333 align:left position:0%,start line:93.33% size:100%
+HAVE... WHAT MIGHT HAVE HAPPENED
+
+03:31.333 --> 03:32.533 align:left position:0%,start line:93.33% size:100%
+AFTER THAT IS STILL A QUESTION
+
+03:32.533 --> 03:33.800 align:left position:0%,start line:93.33% size:100%
+MARK.
+
+03:33.800 --> 03:36.933 align:left position:0%,start line:93.33% size:100%
+SO I THINK THE WHOLE NETWORK OF
+
+03:36.933 --> 03:38.766 align:left position:0%,start line:93.33% size:100%
+VOTING MACHINES AND PEOPLE ARE
+
+03:38.766 --> 03:40.733 align:left position:0%,start line:93.33% size:100%
+REALLY REEVALUATING THIS
+
+03:40.733 --> 03:44.033 align:left position:0%,start line:93.33% size:100%
+QUESTION OF HOW SUSCEPTIBLE THE
+
+03:44.033 --> 03:45.533 align:left position:0%,start line:93.33% size:100%
+UNITED STATES IS TO SORT OF A
+
+03:45.533 --> 03:47.300 align:left position:0%,start line:93.33% size:100%
+CENTRALIZED VOTING ATTACK.
+
+03:47.300 --> 03:48.400 align:left position:0%,start line:93.33% size:100%
+>> Sreenivasan: ROBERT McMILLAN
+
+03:48.400 --> 03:49.200 align:left position:0%,start line:93.33% size:100%
+OF THE WALL STREET JOURNAL
+
+03:49.200 --> 03:49.933 align:left position:0%,start line:93.33% size:100%
+JOINING US FROM SAN FRANCISCO,
+
+03:49.933 --> 03:51.400 align:left position:0%,start line:93.33% size:100%
+THANKS SO MUCH.
+
+03:50.466 --> 03:51.433 align:left position:0%,start line:93.33% size:100%
+>> MY PLEASURE.
