@@ -1,8 +1,10 @@
 data(iris)
+
 library(dplyr)
+
 X <- as.matrix(select(iris, -Species))
 
-y <- as.factor(as.matrix(select(iris, Species)))
+y <- select(iris, Species)
 
 #calculate mean vectors by class
 #within class scatter
@@ -51,5 +53,12 @@ W <- e_vecs[,1:e_vals_num]
 #transform observations into this space
 
 X_lda <- X %*% W
+
+dat <- as.data.frame(cbind(y,X_lda))
+names(dat) <- c("Species", "x","y")
+
+library(ggplot2)
+ggplot(dat, aes(x=x, y=y, color=Species)) +geom_point() +theme_classic()
+
 
 
